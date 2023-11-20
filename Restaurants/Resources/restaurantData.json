@@ -1,0 +1,257 @@
+[
+    {
+        "id": 1001,
+        "name": "Enigma Yorkville",
+        "category": "Contemporary",
+        "city": "Toronto",
+        "province": "Ontario",
+        "address": "23 St. Thomas St., Toronto",
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 43.654321,
+            "latitude": -79.383456
+        },
+        "description": "Enigma Yorkville is a culinary masterpiece, where each dish is carefully crafted to elevate the dining experience. The chef's dedication to pushing the boundaries of gastronomy results in a menu that is as diverse as it is captivating. From the first glimpse of the artistic presentation to the last lingering taste, every aspect of the culinary journey at Enigma tells a story of innovation and excellence.",
+        "imageName": "image1001",
+        "iconName": "contemporary"
+    },
+    {
+        "id": 1002,
+        "name": "Trees Organic Coffee",
+        "category": "Cafe",
+        "city": "Toronto",
+        "province": "Ontario",
+        "address": "450 Granville St, Vancouver",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 49.28484814657072,
+            "latitude": -123.1143474326125
+        },
+        "description": "Trees Organic Coffee in Vancouver is a beloved coffeehouse known for its organic and fair-trade coffee. With multiple locations, it offers a cozy atmosphere for patrons to enjoy a variety of coffee blends, freshly baked goods, and delicious cheesecakes. The cafe prioritizes sustainable and ethical practices, creating a welcoming space for coffee enthusiasts to indulge in quality beverages and treats in the heart of Vancouver.",
+        "imageName": "image1002",
+        "iconName": "cafe"
+    },
+    {
+        "id": 1003,
+        "name": "Pho Challenge",
+        "category": "Vietnamese",
+        "city": "Toronto",
+        "province": "Ontario",
+        "address": "1025 Pape Ave, East York",
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 43.688666051777545,
+            "latitude": -79.34836742989575
+        },
+        "description": "Pho Challenge in Toronto is a haven for pho enthusiasts seeking an authentic Vietnamese culinary experience. Situated in a vibrant neighborhood, this restaurant is renowned for its flavorful and steaming bowls of traditional pho. With a diverse menu of Vietnamese specialties, Pho Challenge invites diners to savor the aromatic broth, tender meats, and fresh herbs that characterize this beloved dish. The warm atmosphere and friendly service add to the overall enjoyment of a visit to Pho Challenge.",
+        "imageName": "image1003",
+        "iconName": "vietnamese"
+    },
+    {
+        "id": 1004,
+        "name": "Maenam",
+        "category": "Thai",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "address": "1938 W 4th Ave, Vancouver",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 49.26794999999825,
+            "latitude": -123.14890853564178
+        },
+        "description": "Maenam in Vancouver is a culinary gem that brings the vibrant flavors of Thai cuisine to the West Coast. Located in the Kitsilano neighborhood, Maenam offers a contemporary dining experience with a menu featuring expertly crafted Thai dishes. Known for its commitment to authenticity and quality ingredients, the restaurant combines traditional flavors with modern presentation, creating a memorable Thai dining experience in the heart of Vancouver.",
+        "imageName": "image1004",
+        "iconName": "thai"
+    },
+    {
+        "id": 1005,
+        "name": "Fable Kitchen",
+        "category": "Contemporary",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "address": "1944 W. 4th Ave., Vancouver",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 49.2679046390061,
+            "latitude": -123.14895833731411
+        },
+        "description": "Fable Kitchen in Vancouver is a renowned farm-to-table restaurant offering a delightful culinary experience. Situated in the Kitsilano neighborhood, Fable Kitchen prides itself on sourcing local, sustainable ingredients to create innovative and seasonal dishes. With a cozy ambiance and a commitment to fresh, high-quality fare, Fable Kitchen is a favorite for those seeking a taste of the region's best in a welcoming setting.",
+        "imageName": "image1005",
+        "iconName": "contemporary"
+    },
+    {
+        "id": 1006,
+        "name": "Aburi Hana",
+        "category": "Japanese",
+        "city": "Toronto",
+        "province": "Ontario",
+        "address": "102 Yorkville Ave, Unit 4 Lower Level, Toronto",
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 43.67099673378671,
+            "latitude": -79.39258293616503
+        },
+        "description": "Aburi Hana in Toronto is a Japanese fusion restaurant that redefines the art of flame-seared sushi. With a prime location, the restaurant offers a unique dining experience, combining traditional Japanese flavors with modern culinary techniques. From expertly crafted sushi to innovative fusion dishes, Aburi Hana invites guests to savor the beauty of aburi-style cuisine in the heart of the city.",
+        "imageName": "image1006",
+        "iconName": "sushi"
+    },
+    {
+        "id": 1007,
+        "name": "Fanny Bay Oyster Bar",
+        "category": "Seafood",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "address": "762 Cambie St, Vancouver",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 49.278586,
+            "latitude": -123.114093
+        },
+        "description": "It doesn't get much more tide to table than Fanny Bay Oyster Bar. Tucked on a quiet street within walking distance from the city's stadiums, this hot spot gets crowded, especially on game days, and for good reason. This menu features some of the best shellfish and seafood-driven entrees around. Should your shucking skills be slightly rusty, they'll gladly offer a primer. Whether perched at the bar or settled in at a table, raw bar items should be top of mind. Prefer cooked items? The grilled oysters, served hot and bubbly, shellacked with Creole butter and a fresh herb-flavored gremolata, will float your boat. Then, tuck in to intensely rich sablefish collar, served crisped alongside with hot-sweet peppadew puree and grilled shishito peppers.",
+        "imageName": "image1007",
+        "iconName": "seafood"
+    },
+    {
+        "id": 1008,
+        "name": "Cafe Gravity",
+        "category": "Cafe",
+        "city": "Calgary",
+        "province": "Alberta",
+        "address": "909 10 St SE, Calgary",
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 51.04237473273158,
+            "latitude": -114.0381995237729
+        },
+        "description": "Cafe Gravity in Calgary is a cozy spot offering a warm and inviting atmosphere. Known for its artisanal coffee and delightful baked goods, the cafe provides a relaxing space for patrons to unwind. The menu features a variety of coffee options, from expertly brewed espresso to comforting lattes. With its friendly staff and welcoming ambiance, Cafe Gravity is a favorite destination for coffee enthusiasts seeking a delightful experience in Calgary.",
+        "imageName": "image1008",
+        "iconName": "cafe"
+    },
+    {
+        "id": 1009,
+        "name": "Café Lunette",
+        "category": "cafe",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "address": "1741 Lower Water St #160, Halifax",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 44.6487610526133,
+            "latitude": -63.571694647443984
+        },
+        "description": "Café by day, bistro by night, this Parisian-inspired eatery will play host to morning coffee and pastries, business lunches, date nights, weekend brunch and everything in between. The menu will feature a greatest hits list of timeless French dishes, a selection of classic cocktails and wines, as well as a standout viennoiserie that will offer a rich variety of baked goods.",
+        "imageName": "image1009",
+        "iconName": "cafe"
+    },
+    {
+        "id": 1010,
+        "name": "Aloette Restaurant",
+        "category": "Canadian",
+        "city": "Toronto",
+        "province": "Manitoba",
+        "address": "163 Spadina Ave. 1st Floor, Toronto",
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 43.648524919037456,
+            "latitude": -79.3959532735268
+        },
+        "description": "Aloette Restaurant in Toronto is a chic and contemporary diner located on Queen Street West. As the more casual sibling of Alo, this stylish eatery offers a modern twist on classic diner fare. With a focus on high-quality ingredients and creative flavors, Aloette serves up comfort food with a sophisticated flair. The welcoming atmosphere, attentive service, and thoughtfully crafted menu make Aloette a trendy destination for those seeking elevated comfort cuisine in Toronto.",
+        "imageName": "image1010",
+        "iconName": "canadian"
+    },
+    {
+        "id": 1011,
+        "name": "Cho Sun Ok",
+        "category": "Korean",
+        "city": "Thornhill",
+        "province": "Ontario",
+        "address": "7353 Yonge St, Thornhill",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 43.80683572694328,
+            "latitude": -79.42168277561979
+        },
+        "description": "Cho Sun Ok Korean Restaurant in Toronto is a gem for lovers of Korean cuisine. Nestled in the vibrant Koreatown, it offers an authentic dining experience. Known for its barbecue options, Cho Sun Ok allows patrons to grill their own meats at the table. The menu boasts a variety of traditional Korean dishes, providing a flavorful journey into Korean culinary delights. The warm ambiance and friendly service enhance the overall dining experience.",
+        "imageName": "image1011",
+        "iconName": "korean"
+    },
+    {
+        "id": 1012,
+        "name": "Sang-Ji Fried Bao",
+        "category": "Chinese",
+        "city": "Toronto",
+        "province": "Ontario",
+        "address": "5461 Yonge St, North York",
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 43.77758156838785,
+            "latitude": -79.41466547250081
+        },
+        "description": "Sang-Ji Fried Bao is a culinary gem in Toronto, specializing in the art of pan-fried bao (Chinese dumplings). Nestled in the Kensington Market, this cozy eatery offers a unique twist on traditional bao, combining a crispy exterior with flavorful and savory fillings. With a focus on freshness and quality, Sang-Ji Fried Bao provides a delightful experience for those seeking a delectable fusion of textures and tastes in the heart of the city.",
+        "imageName": "image1012",
+        "iconName": "dumpling"
+    },
+    {
+        "id": 1013,
+        "name": "1ST RND",
+        "category": "Canadian",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "address": "11248 104 Ave NW, Edmonton",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 53.54668375791719,
+            "latitude": -113.51517853712666
+        },
+        "description": "1ST RND, located in Edmonton, is a vibrant sports bar and restaurant that combines a lively atmosphere with a passion for great food. With a menu featuring a variety of mouthwatering burgers, pub fare, and an extensive selection of craft beers, it's a go-to spot for sports enthusiasts and casual diners alike. The welcoming ambiance, coupled with a diverse menu, makes 1ST RND a popular destination for socializing and enjoying a memorable dining experience in Edmonton.",
+        "imageName": "image1013",
+        "iconName": "canadian"
+    },
+    {
+        "id": 1014,
+        "name": "Restaurant La Buche",
+        "category": "Quebecois",
+        "city": "Quebec City",
+        "province": "Quebec",
+        "address": "49 Rue Saint-Louis, Québec",
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 46.811250492564334,
+            "latitude": -71.20802022355288
+        },
+        "description": "Restaurant La Buche in Quebec City is a charming establishment that embraces the rich culinary heritage of Quebecois cuisine. Located in the heart of the city, the restaurant offers a warm and inviting atmosphere, providing guests with an authentic experience of Quebec's traditional flavors. From classic dishes to innovative creations, Restaurant La Buche invites diners to savor the taste of Quebec in every bite.",
+        "imageName": "image1014",
+        "iconName": "canadian"
+    },
+    {
+        "id": 1015,
+        "name": "Kaiseki Yu-zen Hashimoto",
+        "category": "Japanese",
+        "city": "Toronto",
+        "province": "Ontario",
+        "address": "6 Garamond Ct., Toronto",
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 43.72641233971984,
+            "latitude": -79.33501252007522
+        },
+        "description": "Kaiseki Yuzen Hashimoto is a culinary gem in the heart of Toronto, offering an authentic Japanese Kaiseki dining experience. The restaurant, nestled in a serene location, follows the traditional multi-course kaiseki style, presenting a meticulously curated menu that showcases the harmony of flavors, textures, and seasonal ingredients. From exquisitely prepared sashimi to artfully crafted small dishes, every detail at Kaiseki Yuzen Hashimoto reflects a commitment to the art of Japanese cuisine. Immerse yourself in a culinary journey that embraces the essence of kaiseki dining in an elegant and tranquil setting.",
+        "imageName": "image1015",
+        "iconName": "japanese"
+    }
+]
